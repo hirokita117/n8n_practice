@@ -1,0 +1,10 @@
+# n8n data directory (contains database, credentials, logs)
+n8n-data/
+
+# Local files directory
+local-files/
+
+# Environment files
+.env
+.env.local
+.env.*.local
